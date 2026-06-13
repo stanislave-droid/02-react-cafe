@@ -1,1 +1,1 @@
-# 02-react-cafe
+# React + TypeScript + Vite
